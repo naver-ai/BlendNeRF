@@ -19,28 +19,28 @@ Code will come soon!
 
 ### CelebA-HQ (FFHQ-pretrained EG3D)
 <p align="center">
-<img src='assets/multiview_celeba.png' align="center" width=800>
+<img src='assets/multiview_celeba.png' align="center" width=700>
 </p>
 
 #
 
 ### AFHQv2-Cat (EG3D)
 <p align="center">
-<img src='assets/multiview_afhq.png' align="center" width=800>
+<img src='assets/multiview_afhq.png' align="center" width=700>
 </p>
 
 #
 
 ### ShapeNet-Car (EG3D)
 <p align="center">
-<img src='assets/multiview_shapenet.png' align="center" width=800>
+<img src='assets/multiview_shapenet.png' align="center" width=700>
 </p>
 
 #
 
 ### FFHQ (StyleSDF)
 <p align="center">
-<img src='assets/multiview_stylesdf.png' align="center" width=800>
+<img src='assets/multiview_stylesdf.png' align="center" width=700>
 </p>
 </div>
 
