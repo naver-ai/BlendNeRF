@@ -12,47 +12,62 @@
 
 Code will come soon!
 
-
-
 ## Multi-view blending results
-<hr>
 
 <div>
 
 
-### CelebA-HQ (EG3D / FFHQ-pretrained)
+### CelebA-HQ (FFHQ-pretrained EG3D)
 <p align="center">
-<img src='assets/multiview_celeba.png' align="center" width=100%>
+<img src='assets/multiview_celeba.png' align="center" width=800>
 </p>
+
+#
 
 ### AFHQv2-Cat (EG3D)
 <p align="center">
-<img src='assets/multiview_afhq.png' align="center" width=100%>
+<img src='assets/multiview_afhq.png' align="center" width=800>
 </p>
+
+#
 
 ### ShapeNet-Car (EG3D)
 <p align="center">
-<img src='assets/multiview_shapenet.png' align="center" width=100%>
+<img src='assets/multiview_shapenet.png' align="center" width=800>
 </p>
+
+#
 
 ### FFHQ (StyleSDF)
 <p align="center">
-<img src='assets/multiview_stylesdf.png' align="center" width=100%>
+<img src='assets/multiview_stylesdf.png' align="center" width=800>
 </p>
 </div>
 
 
 ## Comparison with baselines
-<hr>
 <div>
 
 ### CelebA-HQ
 <p align="center">
-<img src='assets/compare_celeba.png' align="center" width=100%>
+<img src='assets/compare_celeba.png' align="center" width=800>
 </p>
+
+#
 
 ### AFHQv2-Cat
 <p align="center">
-<img src='assets/compare_afhq.png' align="center" width=100%>
+<img src='assets/compare_afhq.png' align="center" width=800>
 </p>
 </div>
+
+## Citation
+If you find this work useful for your research, please cite our paper:
+```
+@article{kim20233daware,
+    title={3D-aware Blending with Generative NeRFs}, 
+    author={Hyunsu Kim and Gayoung Lee and Yunjey Choi and Jin-Hwa Kim and Jun-Yan Zhu},
+    journal={arXiv preprint arXiv:2302.06608},
+    year={2023}
+}
+```
