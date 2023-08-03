@@ -1,0 +1,32 @@
+images/
+.DS_Store
+.ipynb_checkpoints
+data
+output
+debug
+*.pyc
+deep-head-pose
+EvalImages
+cache*
+*.pkl
+gif
+archive
+*.ply
+eval
+out
+
+# evaluation:
+temp/
+shapes/
+imgs/
+vids/
+*.mp4
+
+
+# pretrained networks
+bisenet.ckpt
+deeplab_epoch_19.pth
+checkpoints/
+
+# results
+results/
